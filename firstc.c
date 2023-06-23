@@ -1,10 +1,14 @@
 #include <stdio.h>
 int main(){
+
+    int myNum = 15;
+    myNum = 20;
+
     /*
     Multi lines comment
     */
-    printf("Hello World");
+    printf("Hello World\n");
     // this is a comment
-    printf("\n I am learning");
+    printf("I am learning");
     return 0;
 }
